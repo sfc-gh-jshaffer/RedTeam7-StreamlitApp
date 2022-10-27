@@ -1,0 +1,9 @@
+{
+    "account"   : "SFSENORTHAMERICA-SEPROD2",
+    "user"      : "TKO2",
+    "password"  : "",
+    "role"      : "TKO2_redTEAM7_ROLE",
+    "warehouse" : "TKO2_redTEAM7_WH",
+    "database"  : "TKO2",
+    "schema"    : "PUBLIC"
+  }
