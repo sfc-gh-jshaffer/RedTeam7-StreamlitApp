@@ -3,6 +3,7 @@
 ## Running The App Locally
 * git clone
 * `pip install -r requirements.txt`
+* `<local repo directory>/.streamlit/secrets.toml` exists and contains the appropriate Snowflake secrets referenced in `creds-tko.json`
 * `streamlit run streamlit_app.py`
 
 ## Running The App On The Cloud (Under Development)
