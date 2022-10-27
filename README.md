@@ -1,5 +1,9 @@
 # RedTeam7-StreamlitApp
 
+## Requirements
+* Python 3.9.x
+* Streamlit 1.13.x 
+
 ## Running The App Locally
 * git clone
 * `pip install -r requirements.txt`
